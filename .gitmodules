@@ -1,0 +1,8 @@
+[submodule "testbed"]
+	path = testbed
+	url = https://github.com/Vovan675/test_ipg_testbed.git
+	ignore = dirty
+[submodule "weather_library"]
+	path = weather_library
+	url = https://github.com/Vovan675/test_ipg_weather_library.git
+	ignore = dirty
